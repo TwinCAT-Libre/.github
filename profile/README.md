@@ -1,4 +1,25 @@
-## Hi there 👋
+Welcome to TwinCAT Libre
+
+An open source resource for all things TwinCAT.
+
+# Useful Links 
+
+## Tutorials and Other Resources
+- [Beckhoff USA Github](https://github.com/Beckhoff-USA-Community)
+  
+   Great resource for examples with great documentation. PackML, powershell install scripts
+
+- Jakob Sagatwoski
+    - [Youtube](https://www.youtube.com/c/JakobSagatowski)
+    - [Github](https://github.com/sagatowski)
+
+   Big name in the TwinCAT world. Amazing tutorials on how to use TwinCAT, great discussions on software development in the industrial world. 
+
+
+
+   
+   
+
 
 <!--
 
